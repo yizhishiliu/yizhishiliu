@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=yizhishiliue&show_icons=true&theme=transparent)
+![](https://github-readme-stats.vercel.app/api?username=yizhishiliu&show_icons=true&theme=transparent)
 
 <!--
 **yizhishiliu/yizhishiliu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
