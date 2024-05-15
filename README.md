@@ -56,6 +56,21 @@
     </a> 
 </p>
 
+```java
+// tools_I_use organized
+
+class About extends Me { 
+  const myTools = {  
+    "ProgramingLanguages" : { "Java", "Python", "TypeScript" },
+    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
+    "Database" : { "MySQL", "mariadb", "Oracle", "Redis" },
+    "Editors" : { "IDEA", "VSCode", "PyCharm", "WebStrom" },
+    "Platforms" : { "Mac", "Linux", "Windows" },
+    "OtherTools" : { "Git", "Maven", "Photoshop", "Gimp", "Lightroom" }
+  };
+}
+```
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=lightrain-a.lightrain-a" />
 
 ![](https://github-readme-stats.vercel.app/api?username=yizhishiliu&show_icons=true&theme=transparent)
