@@ -1,7 +1,9 @@
 <h1 align="center">👋Hey! Nice to see you! I'm yizhishiliu(一之十六)</h1>
 <h3 align="center">A passionate backend developer from China!</h3>
 <h3 align="center">有友携行，理想长鸣！</h3>
-<img align="right" src="https://github.com/yizhishiliu/yizhishiliu/blob/main/gifs/dev-working_rounded.gif?raw=true" href="https://github.com/yizhishiliu" alt="CoDiNg RocKs"  width="36%"/>
+<br>
+
+<img align="right" src="https://github.com/yizhishiliu/yizhishiliu/blob/main/gifs/dev-working_rounded.gif?raw=true" href="https://github.com/yizhishiliu" alt="CoDiNg RocKs"  width="32%"/>
 
 <h3 align="left">🛠️ Technologies and Tools I use:</h3>
 <p align="left"> 
@@ -58,13 +60,15 @@
     </a> 
 </p>
 
----
+
 
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
+
+---
 
 <a href="https://github.com/yizhishiliu">
     <img height="137px" src="https://github-readme-stats.vercel.app/api?username=yizhishiliu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
