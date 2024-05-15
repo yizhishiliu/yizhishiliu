@@ -66,7 +66,7 @@ class About extends Me {
     "Database" : { "MySQL", "mariadb", "Oracle", "Redis" },
     "Editors" : { "IDEA", "VSCode", "PyCharm", "WebStrom" },
     "Platforms" : { "Mac", "Linux", "Windows" },
-    "OtherTools" : { "Git", "Maven", "Photoshop", "Gimp", "Lightroom" }
+    "OtherTools" : { "Git", "SVN", "", "XShell", "Photoshop" }
   };
 }
 ```
