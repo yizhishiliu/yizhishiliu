@@ -3,7 +3,7 @@
     <h1>👋Hey! Nice to see you! I'm yizhishiliu(一之十六)</h1>
     <h3>A passionate backend developer from China!</h3>
     <h3>有友携行，理想长鸣！</h3>
-    <img src="https://github.com/yizhishiliu/yizhishiliu/blob/main/gifs/dev-working_rounded.gif?raw=true" href="https://github.com/yizhishiliu" alt="CoDiNg RocKs"  width="60%"/>
+    <img src="https://github.com/yizhishiliu/yizhishiliu/blob/main/gifs/dev-working_rounded.gif?raw=true" href="https://github.com/yizhishiliu" alt="CoDiNg RocKs"  width="36%"/>
 </div>
 
 <h3 align="left">🛠️ Technologies and Tools I use:</h3>
