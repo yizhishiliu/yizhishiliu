@@ -1,5 +1,5 @@
 <h1 align="center">👋Hey! Nice to see you! I'm yizhishiliu(一之十六)</h1>
-<h3 align="center">A passionate backend developer from China!</h3>
+<h3 align="center">A ebullient backend developer from China!</h3>
 <h3 align="center">有友携行，理想长鸣！</h3>
 <br>
 
