@@ -11,7 +11,7 @@
 ### 🤝 Connect with me:
 <div align="center">
 <a href="https://github.com/yizhishiliu/yizhishiliu/blob/main/images/wechat.jpg" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=WeChat&logoColor=white alt=WeChat style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/WeChat-%2324292e.svg?&style=for-the-badge&logo=WeChat&logoColor=white alt=WeChat style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
