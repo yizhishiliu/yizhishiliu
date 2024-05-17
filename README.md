@@ -7,6 +7,10 @@
 
 <img align="right" src="https://github.com/yizhishiliu/yizhishiliu/blob/main/gifs/dev-working_rounded.gif?raw=true" href="https://github.com/yizhishiliu" alt="CoDiNg RocKs"  width="32%"/>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
 <h3 align="left">🛠️ Technologies and Tools I use:</h3>
 <p align="left"> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
@@ -77,7 +81,3 @@
     <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yizhishiliu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
 </a>
 <br>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
