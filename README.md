@@ -9,8 +9,7 @@
 <img align="right" src="https://github.com/yizhishiliu/yizhishiliu/blob/main/gifs/dev-working_rounded.gif?raw=true" href="https://github.com/yizhishiliu" alt="CoDiNg RocKs"  width="32%"/>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+    - 
 
 <h3 align="left">🛠️ Technologies and Tools I use:</h3>
 <p align="left"> 
