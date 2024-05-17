@@ -1,6 +1,7 @@
 <h1 align="center">👋Hey! Nice to see you! I'm yizhishiliu(一之十六)</h1>
 <h3 align="center">An ebullient backend developer from China!</h3>
 <h3 align="center">有友携行，理想长鸣！</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F71DC6&random=false&width=435&lines=%E6%9C%89%E5%8F%8B%E6%90%BA%E8%A1%8C%EF%BC%8C%E7%90%86%E6%83%B3%E9%95%BF%E9%B8%A3%EF%BC%81)](https://git.io/typing-svg)
 <br>
 
 <img align="right" src="https://github.com/yizhishiliu/yizhishiliu/blob/main/gifs/dev-working_rounded.gif?raw=true" href="https://github.com/yizhishiliu" alt="CoDiNg RocKs"  width="32%"/>
