@@ -4,7 +4,6 @@
     <a href="https://blog.csdn.net/weixin_52164430?type=blog" target="_blank" rel="noreferrer">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F71DC6&center=true&random=false&width=435&lines=%E6%9C%89%E5%8F%8B%E6%90%BA%E8%A1%8C%EF%BC%8C%E7%90%86%E6%83%B3%E9%95%BF%E9%B8%A3%EF%BC%81" alt="Typing SVG" /></a>
 </h3>
-<br>
 
 <img align="right" src="https://github.com/yizhishiliu/yizhishiliu/blob/main/gifs/dev-working_rounded.gif?raw=true" href="https://github.com/yizhishiliu" alt="CoDiNg RocKs"  width="32%"/>
 
@@ -28,7 +27,12 @@
 <a href="https://www.zhihu.com/people/mingdajiang" target="_blank">
 <img src=https://img.shields.io/badge/zhihu-0295FF?&style=for-the-badge&logo=zhihu&logoColor=white alt=zhihu style="margin-bottom: 5px;" />
 </a>  
-</div>  
+</div>
+
+### 🤺 About me
+哈喽！很高兴认识你，我是一之十六，一名在职的后端开发人员。
+<br>
+喜欢编程、慢跑、阅读和旅行。
 
 ### 🛠️ My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -82,8 +86,9 @@
 
 ---
 
-<a href="https://github.com/yizhishiliu">
-    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=yizhishiliu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
-    <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yizhishiliu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
-</a>
-<br>
+<div align="center">
+    <a href="https://github.com/yizhishiliu">
+        <img height="137px" src="https://github-readme-stats.vercel.app/api?username=yizhishiliu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite"/>
+        <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yizhishiliu&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite"/>
+    </a>
+</div>
