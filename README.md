@@ -9,24 +9,24 @@
 <img align="right" src="https://github.com/yizhishiliu/yizhishiliu/blob/main/gifs/dev-working_rounded.gif?raw=true" href="https://github.com/yizhishiliu" alt="CoDiNg RocKs"  width="32%"/>
 
 ### 🤝 Connect with me:
-<div align="center">
+<div align="left">
 <a href="https://github.com/yizhishiliu/yizhishiliu/blob/main/images/wechat.jpg?raw=true" target="_blank">
-<img src=https://img.shields.io/badge/WeChat-%2324292e.svg?&style=for-the-badge&logo=WeChat&logoColor=white alt=WeChat style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white alt=WeChat style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/email-%2300acee.svg?&style=for-the-badge&logo=email&logoColor=white alt=email style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Gmail-EAF1FB?style=for-the-badge&logo=gmail&logoColor=EA4335 alt=email style="margin-bottom: 5px;" />
 </a>
 <a href="https://blog.csdn.net/weixin_52164430?spm=1000.2115.3001.5343" target="_blank">
-<img src=https://img.shields.io/badge/csdn-%2308090A.svg?&style=for-the-badge&logo=csdn&logoColor=red alt=csdn style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/blog.csdn-FC5531?&style=for-the-badge&logo=blog.csdn&logoColor=red alt=csdn style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<a href="https://space.bilibili.com/489202200?spm_id_from=333.1007.0.0" target="_blank">
+<img src=https://img.shields.io/badge/bilibili-F2889E?&style=for-the-badge&logo=bilibili&logoColor=00AAE2 alt=bilibili style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
+<a href="https://juejin.cn/user/336896602419064" target="_blank">
+<img src=https://img.shields.io/badge/juejin-FFFFFF?&style=for-the-badge&logo=juejin&logoColor=blue alt=juejin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+<a href="https://www.zhihu.com/people/mingdajiang" target="_blank">
+<img src=https://img.shields.io/badge/zhihu-0295FF?&style=for-the-badge&logo=zhihu&logoColor=white alt=zhihu style="margin-bottom: 5px;" />
 </a>  
 </div>  
 
