@@ -12,7 +12,7 @@
 <a href="https://github.com/yizhishiliu/yizhishiliu/blob/main/images/wechat.jpg?raw=true" target="_blank">
 <img src=https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white alt="WeChat" style="margin-bottom: 5px;" />
 </a>
-<a href=""mailto:mingdajiang@gmail.com"" target="_blank">
+<a href="mailto:mingdajiang@gmail.com" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-EAF1FB?style=for-the-badge&logo=gmail&logoColor=EA4335 alt=gmail style="margin-bottom: 5px;" />
 </a>
 <a href="https://blog.csdn.net/weixin_52164430?spm=1000.2115.3001.5343" target="_blank">
