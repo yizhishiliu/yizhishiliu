@@ -10,7 +10,7 @@
 ### 🤝 Connect with me:
 <div align="left">
 <a href="https://github.com/yizhishiliu/yizhishiliu/blob/main/images/wechat.jpg?raw=true" target="_blank">
-<img src=https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white alt=WeChat style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white alt="WeChat" style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/iamrishavanand" target="_blank">
 <img src=https://img.shields.io/badge/Gmail-EAF1FB?style=for-the-badge&logo=gmail&logoColor=EA4335 alt=email style="margin-bottom: 5px;" />
