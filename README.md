@@ -30,9 +30,12 @@
 </div>
 
 ### 🤺 About me
-哈喽！很高兴认识你，我是一之十六，一名在职的后端开发人员。
-<br>
-喜欢编程、慢跑、阅读和旅行。
+
+- <img alt="GIF" src="gifs/Developer.gif" width="25" /> &nbsp; I’m currently learning **[Design Pattern](https://github.com/yizhishiliu/DesignPattern) & [AIGC](https://github.com/yizhishiliu/aigcTest)**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+- <img src="gifs/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp;Be elegant and with nice personality. <br>
+- <img src="gifs/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **program developing, experience, or anything**. <br>
+- <img src="gifs/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on **WeChat**: **[稍带温度的风](https://github.com/yizhishiliu/yizhishiliu/blob/main/images/wechat.jpg)**<br>
+- &nbsp;&nbsp;<img src="gifs/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;**Don’t let the past steal your present.**<br>
 
 ### 🛠️ My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -76,12 +79,6 @@
 </td></tr></table>  
 
 <br/>  
-
-- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I’m currently learning **Flutter & WebDev**. <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hyperkitty.gif?raw=true" width="20" />&nbsp;&nbsp;&nbsp; I like exploring **GNU/Linux**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; Ask me about **Pc building, Movies, or anything**. <br>
-- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; Find me on Telegram: **[丂𝙋⚡乂𝘿](https://t.me/spxd007)**<br>
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;Fun fact: Banging your head against a wall for one hour burns **150 calories**.<br>
 
 ---
 
