@@ -12,8 +12,8 @@
 <a href="https://github.com/yizhishiliu/yizhishiliu/blob/main/images/wechat.jpg" target="_blank">
 <img src=https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white alt="WeChat" style="margin-bottom: 5px;" />
 </a>
-<a href="mailto:mingdajiang@gmail.com" target="_blank">
-<img src=https://img.shields.io/badge/Gmail-EAF1FB?style=for-the-badge&logo=gmail&logoColor=EA4335 alt=gmail style="margin-bottom: 5px;" />
+<a href="mailto:yshiliu@126.com" target="_blank">
+<img src=https://img.shields.io/badge/mail-EAF1FB?style=for-the-badge&logo=mail&logoColor=EA4335 alt=gmail style="margin-bottom: 5px;" />
 </a>
 <a href="https://blog.csdn.net/weixin_52164430?spm=1000.2115.3001.5343" target="_blank">
 <img src=https://img.shields.io/badge/blog.csdn-FC5531?&style=for-the-badge&logo=blog.csdn&logoColor=red alt=csdn style="margin-bottom: 5px;" />
