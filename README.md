@@ -72,12 +72,12 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 </div>
-![Stats](https://github-readme-stats.vercel.app/api?username=yizhishiliu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yizhishiliu&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 </td></tr></table>  
 
 ## ✨Github Stats
 <div align="left">
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=yizhishiliu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn" />
 <img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yizhishiliu&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
+![Stats](https://github-readme-stats.vercel.app/api?username=yizhishiliu&hide_title=true&hide_border=true&show_icons=true&include_all_commits=false&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&locale=cn)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yizhishiliu&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn)
 </div>
